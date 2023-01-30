@@ -9,7 +9,7 @@ public class WelcomeController {
 	@GetMapping("/welcome")
 	public String getWelcome()
 	{
-		return "welcome to docker CI CD pipleline";
+		return "welcome to docker CI CD pipleline work";
 	}
 	
 }
