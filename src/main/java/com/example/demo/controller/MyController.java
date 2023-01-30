@@ -11,7 +11,6 @@ public class MyController {
 	{
 		System.out.println("WelcomeController.getWelcome()");
 		System.out.println("WelcomeController.getWelcome(6)");
-
 		return "welcome to docker CI CD pipleline work7";
 
 	}
