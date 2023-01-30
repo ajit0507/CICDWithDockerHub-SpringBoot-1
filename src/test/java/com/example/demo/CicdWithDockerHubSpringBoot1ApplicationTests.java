@@ -10,7 +10,9 @@ class CicdWithDockerHubSpringBoot1ApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 		assertEquals(true, true);
+
 	}
 
 }
