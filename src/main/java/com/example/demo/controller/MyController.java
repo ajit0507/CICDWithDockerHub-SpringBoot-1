@@ -10,7 +10,7 @@ public class MyController {
 	public String getWelcome()
 	{
 		System.out.println("WelcomeController.getWelcome()");
-		System.out.println("WelcomeController.getWelcome(5)");
+		System.out.println("WelcomeController.getWelcome(6)");
 
 		return "welcome to docker CI CD pipleline work7";
 
