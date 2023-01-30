@@ -12,7 +12,7 @@ public class WelcomeController {
 		System.out.println("WelcomeController.getWelcome()");
 		System.out.println("WelcomeController.getWelcome()");
 
-		System.out.println("WelcomeController.getWelcome(8)");
+    System.out.println("WelcomeController.getWelcome(8)");
 		return "welcome to docker CI CD pipleline work5";
 
 	}
