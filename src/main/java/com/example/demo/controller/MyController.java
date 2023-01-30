@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class MyController {
-	@GetMapping("/welcome")
+	@GetMapping("/welcome1")
 	public String getWelcome()
 	{
 		System.out.println("WelcomeController.getWelcome()");
